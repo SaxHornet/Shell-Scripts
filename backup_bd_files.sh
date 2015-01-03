@@ -1,3 +1,5 @@
+#!/bin/sh
+
 mkdir $TEMP_DIRECTORY
 lftp sftp://$REMOTE_SSH_USER:$BPASSWORD@$REMOTE_IP -e "mirror -e  $REMOTE_DIRECTORY $TEMP_DIRECTORY ; quit"
 mkdir $SQLDUMPS_DIRECTORY/
