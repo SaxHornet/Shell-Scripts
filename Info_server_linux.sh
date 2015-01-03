@@ -2,7 +2,7 @@
 #A simple script to enumerate local information from a Linux host
 
 echo -e "\n\e[00;30m#########################################################\e[00m"
-echo -e "\e[00;34mLocal Linux Enumeration & Privilege Escalation Script\e[00m"
+echo -e "\e[00;34m Linux Enumeration & Privilege Script\e[00m"
 echo -e "\e[00;30m#########################################################\e[00m"
 
 #enter a single keyword that'll be used to search within *.conf, *.log & *.ini files.
