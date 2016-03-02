@@ -1,5 +1,7 @@
-Scripts für linux
+Shell Scripts
+-----------
 
-In diesem Bereich legte ich nützliche Skripte für Linux. Dazu zählen die Automatisierung von Anlagen und Konfigurationsdatei-Vorlagen. Diese befasst sich mit der Systemverwaltung und Sicherheit. Dies sind persönliche Skripte während meiner Tests und meine Interventionen gemacht.
+You will find in this repository, all scripts I made for Linux's administration
 
-=====
+I will put some others when I will have it ;)
+
